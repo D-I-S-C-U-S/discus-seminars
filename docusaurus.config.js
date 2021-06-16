@@ -2,13 +2,13 @@
 module.exports = {
   title: 'DISCUS PhD Seminar',
   tagline: 'Dinosaurs are cool, sharing your interests is cooler.',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://D-I-S-C-U-S.github.io/',
+  baseUrl: '/discus-seminars/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'DISCUS', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'D-I-S-C-U-S', // Usually your GitHub org/user name.
+  projectName: 'discus-seminars', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'DISCUS Seminars',
