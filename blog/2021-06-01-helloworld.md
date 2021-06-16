@@ -1,6 +1,6 @@
 ---
 slug: starting
-title: Hello, World
+title: Hello, World!
 author: Oliver Thomas
 author_title: Organiser
 author_url: https://olliethomas.github.io
