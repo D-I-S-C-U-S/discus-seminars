@@ -2,7 +2,7 @@
 module.exports = {
   title: 'DISCUS PhD Seminar',
   tagline: 'Dinosaurs are cool, sharing your interests is cooler.',
-  url: 'https://D-I-S-C-U-S.github.io/',
+  url: 'https://d-i-s-c-u-s.github.io/',
   baseUrl: '/discus-seminars/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
