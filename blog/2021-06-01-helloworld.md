@@ -10,10 +10,10 @@ tags: [Hola!, DISCUS, Seminars]
 
 Hi all, Welcome to a new series of talks.
 
-<!--truncate-->
-
 We wanted to put together a forum where current PhD students can talk about things that interest them.
 In some cases this will be about their data-based research, for others it may be about the tools that they use and workflows that have made a difference in their day-to-day lives.
+
+<!--truncate-->
 
 We'll be listening for feedback about the exact format, frequency and length of these talks, but initally we aim to present a roughly 20-30 minute presentation every few weeks with plenty of time for Q&A.
 
