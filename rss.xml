@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>DISCUS PhD Seminar Blog</title>
+        <link>https://D-I-S-C-U-S.github.io/</link>
+        <description>DISCUS PhD Seminar Blog</description>
+        <lastBuildDate>Thu, 10 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2021 DISCUS</copyright>
+        <item>
+            <title><![CDATA[Seminar - ML for TTZ]]></title>
+            <link>https://D-I-S-C-U-S.github.io/discus-seminars/seminar1</link>
+            <guid>seminar1</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Our first seminar presentation was on using machine learning to find rare processes.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hello, World]]></title>
+            <link>https://D-I-S-C-U-S.github.io/discus-seminars/starting</link>
+            <guid>starting</guid>
+            <pubDate>Tue, 01 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hi all, Welcome to a new series of talks.]]></description>
+        </item>
+    </channel>
+</rss>
