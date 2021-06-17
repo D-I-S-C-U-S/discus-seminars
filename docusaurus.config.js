@@ -2,7 +2,7 @@
 module.exports = {
   title: 'DISCUS PhD Seminar',
   tagline: 'Dinosaurs are cool, sharing your interests is cooler.',
-  url: 'www.brighton.ml',
+  url: 'https://www.brighton.ml',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
