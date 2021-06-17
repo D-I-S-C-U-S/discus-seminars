@@ -2,8 +2,8 @@
 module.exports = {
   title: 'DISCUS PhD Seminar',
   tagline: 'Dinosaurs are cool, sharing your interests is cooler.',
-  url: 'https://d-i-s-c-u-s.github.io/',
-  baseUrl: '/discus-seminars/',
+  url: 'www.brighton.ml',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
