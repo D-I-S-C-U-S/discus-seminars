@@ -1,1 +1,0 @@
-(self.webpackChunkdiscus_seminars=self.webpackChunkdiscus_seminars||[]).push([[106],{306:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/discus-seminars/tags","slug":"discus","name":"discus","count":1,"permalink":"/discus-seminars/tags/discus"}')}}]);

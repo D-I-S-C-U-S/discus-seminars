@@ -1,1 +1,0 @@
-(self.webpackChunkdiscus_seminars=self.webpackChunkdiscus_seminars||[]).push([[553],{2604:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/discus-seminars/tags","slug":"machine-learning","name":"machinelearning","count":1,"permalink":"/discus-seminars/tags/machine-learning"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkdiscus_seminars=self.webpackChunkdiscus_seminars||[]).push([[594],{4801:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"seminars","name":"seminars","count":1,"permalink":"/tags/seminars"}')}}]);
