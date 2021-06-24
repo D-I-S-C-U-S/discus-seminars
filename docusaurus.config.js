@@ -54,6 +54,8 @@ module.exports = {
       {
         docs: false,
         blog: {
+          blogTitle: 'DISCUS Seminar Series',
+          blogDescription: 'A collection of talks by PhD students who work with data.',
           feedOptions: {
             type: 'all',
             copyright: `Copyright © ${new Date().getFullYear()} DISCUS`,
