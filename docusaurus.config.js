@@ -37,6 +37,10 @@ module.exports = {
             {
               label: 'GitHub',
               href: 'https://github.com/D-I-S-C-U-S',
+            },
+            {
+              label: 'Join our mailing list',
+              href: 'https://forms.gle/XbpPhnZd4adPD7nWA',
             }
           ],
         }
