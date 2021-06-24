@@ -1,0 +1,1 @@
+(self.webpackChunkdiscus_seminars=self.webpackChunkdiscus_seminars||[]).push([[647],{7129:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"spru","name":"spru","count":1,"permalink":"/tags/spru"}')}}]);

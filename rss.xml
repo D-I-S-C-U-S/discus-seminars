@@ -4,10 +4,17 @@
         <title>DISCUS PhD Seminar Blog</title>
         <link>https://www.brighton.ml/</link>
         <description>DISCUS PhD Seminar Blog</description>
-        <lastBuildDate>Thu, 10 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2021 DISCUS</copyright>
+        <item>
+            <title><![CDATA[Seminar 2 - Tracking Medical Research Funding]]></title>
+            <link>https://www.brighton.ml/seminar2</link>
+            <guid>seminar2</guid>
+            <pubDate>Thu, 24 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tracking Medical Research Funding]]></description>
+        </item>
         <item>
             <title><![CDATA[Seminar - ML for TTZ]]></title>
             <link>https://www.brighton.ml/seminar1</link>
