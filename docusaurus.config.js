@@ -9,7 +9,6 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'D-I-S-C-U-S', // Usually your GitHub org/user name.
   projectName: 'discus-seminars', // Usually your repo name.
-  plugins: ['@docusaurus/plugin-google-analytics'],
   themeConfig: {
     navbar: {
       title: 'DISCUS Seminars',
