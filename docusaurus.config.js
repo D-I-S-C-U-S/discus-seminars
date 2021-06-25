@@ -48,7 +48,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} DISCUS.`,
     },
     googleAnalytics: {
-      trackingID: 'G-R3Y7614ML2',
+      trackingID: 'UA-200565772-1',
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },
